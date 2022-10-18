@@ -5,7 +5,7 @@
 */
 
 function chunkArray(array, size) {
-    // Code goes here
+  
 }
 
 
